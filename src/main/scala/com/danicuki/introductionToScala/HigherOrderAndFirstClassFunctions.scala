@@ -1,4 +1,4 @@
-import com.danicuki.introductionToScala.Person
+package com.danicuki.introductiontoscala
 
 object HigherOrderAndFirstClassFunctions {
 

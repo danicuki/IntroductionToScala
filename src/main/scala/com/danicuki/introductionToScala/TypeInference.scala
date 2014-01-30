@@ -1,5 +1,6 @@
+package com.danicuki.introductiontoscala
+
 import scala.util.Random
-import com.danicuki.introductionToScala.Person
 
 object TypeInference {
 

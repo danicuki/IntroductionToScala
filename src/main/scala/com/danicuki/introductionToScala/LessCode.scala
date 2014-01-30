@@ -1,3 +1,5 @@
+package com.danicuki.introductiontoscala
+
 object LessCode {
 
   def fact1(n: Int) = {

@@ -1,3 +1,5 @@
+package com.danicuki.introductiontoscala
+
 object Traits {
   abstract class Spacecraft {
     def engage(): Unit

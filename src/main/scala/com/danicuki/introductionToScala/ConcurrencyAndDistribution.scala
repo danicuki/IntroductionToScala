@@ -1,3 +1,4 @@
+package com.danicuki.introductiontoscala
 import scala.util.Random
 import scala.concurrent._
 import ExecutionContext.Implicits.global

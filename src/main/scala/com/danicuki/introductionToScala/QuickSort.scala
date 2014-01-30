@@ -1,3 +1,5 @@
+package com.danicuki.introductiontoscala
+
 object QuickSort {
   def sort(list: List[Int]): List[Int] = {
     list match {

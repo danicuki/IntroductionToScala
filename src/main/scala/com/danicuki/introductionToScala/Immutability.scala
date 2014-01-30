@@ -1,3 +1,5 @@
+package com.danicuki.introductiontoscala
+
 object Immutability {
 
   def mutable {
