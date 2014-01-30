@@ -10,9 +10,10 @@ object Benefits {
       ConcurrencyAndDistribution)
 
   def ScalaBenefits =
-    Seq(Traits,
+    Seq(FunctionalProgrammingBenefits,
+      Traits,
       ScalaPlusJava,
       TypeInference,
-      "Actors")
+      Actors)
 
 }
